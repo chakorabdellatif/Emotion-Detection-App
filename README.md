@@ -15,9 +15,8 @@ The model classifies images into the following **7 emotions**:
 2. Happy  
 3. Sad  
 4. Surprise  
-5. Fear  
-6. Disgust  
-7. Anger  
+5. Fear   
+6. Anger  
 
 ## Tech Stack  
 - **Android Studio** (Java, XML)  
